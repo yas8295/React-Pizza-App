@@ -14,7 +14,7 @@ export default function Footer() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 0.95 }}
           exit={{ opacity: 0 }}
-          className="flex justify-between items-center bg-stone-800 w-full text-white px-4 py-3"
+          className="fixed bottom-0 flex justify-between items-center bg-stone-800 w-full text-white px-4 py-3"
         >
           <div className="flex gap-2 items-center">
             <h1>{pizzas.length} PIZZAS</h1>
