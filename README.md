@@ -20,7 +20,7 @@ Welcome to the Pizza Ordering App! This simple application allows users to order
 
 ## Demo
 
-[Live Demo](https://your-pizza-ordering-app-demo-link.com](https://yas8295.github.io/React-Pizza-App/)
+[Live Demo](https://yas8295.github.io/React-Pizza-App/](https://yas8295.github.io/React-Pizza-App/))
 
 ## Installation
 
